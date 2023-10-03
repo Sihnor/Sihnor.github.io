@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sihnor&#39;s Blog</title>
+    <link>https://Sihnor.github.io/</link>
+    <description>Recent content on Sihnor&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 </copyright>
+    <atom:link href="https://Sihnor.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
